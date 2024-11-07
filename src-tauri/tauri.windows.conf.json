@@ -2,13 +2,13 @@
   "tauri": {
     "bundle": {
       "icon": ["png/huggingface_256.ico", "png/huggingface_32.ico"],
-      "identifier": "com.pake.huggingchat",
+      "identifier": "com.pake.hfchat",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/huggingface_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {
@@ -16,7 +16,7 @@
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
         "wix": {
-          "language": ["en-US"],
+          "language": ["fr-FR"],
           "template": "assets/main.wxs"
         }
       }
