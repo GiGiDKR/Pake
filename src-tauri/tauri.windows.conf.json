@@ -1,8 +1,8 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_256.ico", "png/weread_32.ico"],
-      "identifier": "com.pake.weread",
+      "icon": ["png/huggingface_256.ico", "png/huggingface_32.ico"],
+      "identifier": "com.pake.huggingchat",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
